@@ -1,0 +1,3837 @@
+[
+  {
+    "simplified": "爱",
+    "radical": "爫",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "愛",
+        "transcriptions": { "pinyin": "ài", "numeric": "ai4" },
+        "meanings": ["to love", "to like", "to be fond of"],
+        "meanings_th": ["รัก", "ชอบ"]
+      }
+    ]
+  },
+  {
+    "simplified": "八",
+    "radical": "八",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "八",
+        "transcriptions": { "pinyin": "bā", "numeric": "ba1" },
+        "meanings": ["eight", "8"],
+        "meanings_th": ["แปด"]
+      }
+    ]
+  },
+  {
+    "simplified": "爸爸",
+    "radical": "父",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "爸爸",
+        "transcriptions": { "pinyin": "bà ba", "numeric": "ba4 ba5" },
+        "meanings": ["father", "dad"],
+        "meanings_th": ["พ่อ"]
+      }
+    ]
+  },
+  {
+    "simplified": "吧",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "吧",
+        "transcriptions": { "pinyin": "ba", "numeric": "ba5" },
+        "meanings": ["modal particle for suggestion or surmise", "...right?", "...OK?"],
+        "meanings_th": ["เถอะ", "นะ", "สิ"]
+      }
+    ]
+  },
+  {
+    "simplified": "白天",
+    "radical": "白",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "白天",
+        "transcriptions": { "pinyin": "bái tiān", "numeric": "bai2 tian1" },
+        "meanings": ["daytime", "during the day"],
+        "meanings_th": ["ตอนกลางวัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "百",
+    "radical": "白",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "百",
+        "transcriptions": { "pinyin": "bǎi", "numeric": "bai3" },
+        "meanings": ["hundred"],
+        "meanings_th": ["ร้อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "半",
+    "radical": "十",
+    "level": ["newest-1", "new-1", "old-3"],
+    "forms": [
+      {
+        "traditional": "半",
+        "transcriptions": { "pinyin": "bàn", "numeric": "ban4" },
+        "meanings": ["half"],
+        "meanings_th": ["ครึ่ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "包子",
+    "radical": "勹",
+    "level": ["newest-1", "new-1", "old-5"],
+    "forms": [
+      {
+        "traditional": "包子",
+        "transcriptions": { "pinyin": "bāo zi", "numeric": "bao1 zi5" },
+        "meanings": ["steamed stuffed bun"],
+        "meanings_th": ["ซาลาเปา"]
+      }
+    ]
+  },
+  {
+    "simplified": "杯子",
+    "radical": "木",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "杯子",
+        "transcriptions": { "pinyin": "bēi zi", "numeric": "bei1 zi5" },
+        "meanings": ["cup", "glass"],
+        "meanings_th": ["แก้ว", "ถ้วย"]
+      }
+    ]
+  },
+  {
+    "simplified": "本",
+    "radical": "木",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "本",
+        "transcriptions": { "pinyin": "běn", "numeric": "ben3" },
+        "meanings": ["classifier for books/periodicals", "root", "origin"],
+        "meanings_th": ["เล่ม", "สมุด"]
+      }
+    ]
+  },
+  {
+    "simplified": "边",
+    "radical": "辶",
+    "level": ["newest-1", "new-2"],
+    "forms": [
+      {
+        "traditional": "邊",
+        "transcriptions": { "pinyin": "biān", "numeric": "bian1" },
+        "meanings": ["side", "edge", "border"],
+        "meanings_th": ["ข้าง", "ด้าน"]
+      }
+    ]
+  },
+  {
+    "simplified": "便宜",
+    "radical": "亻",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "便宜",
+        "transcriptions": { "pinyin": "pián yi", "numeric": "pian2 yi5" },
+        "meanings": ["cheap", "inexpensive"],
+        "meanings_th": ["ราคาถูก", "ถูก"]
+      }
+    ]
+  },
+  {
+    "simplified": "病",
+    "radical": "疒",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "病",
+        "transcriptions": { "pinyin": "bìng", "numeric": "bing4" },
+        "meanings": ["illness", "disease", "to be ill"],
+        "meanings_th": ["ป่วย", "โรค"]
+      }
+    ]
+  },
+  {
+    "simplified": "不",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "不",
+        "transcriptions": { "pinyin": "bù", "numeric": "bu4" },
+        "meanings": ["no", "not"],
+        "meanings_th": ["ไม่"]
+      }
+    ]
+  },
+  {
+    "simplified": "不客气",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "不客氣",
+        "transcriptions": { "pinyin": "bù kè qi", "numeric": "bu4 ke4 qi5" },
+        "meanings": ["you're welcome", "don't mention it"],
+        "meanings_th": ["ไม่เป็นไร", "ไม่ต้องเกรงใจ"]
+      }
+    ]
+  },
+  {
+    "simplified": "不要",
+    "radical": "一",
+    "level": ["newest-1", "new-2"],
+    "forms": [
+      {
+        "traditional": "不要",
+        "transcriptions": { "pinyin": "bù yào", "numeric": "bu4 yao4" },
+        "meanings": ["don't!", "must not", "do not want"],
+        "meanings_th": ["อย่า", "ไม่เอา"]
+      }
+    ]
+  },
+  {
+    "simplified": "菜",
+    "radical": "艹",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "菜",
+        "transcriptions": { "pinyin": "cài", "numeric": "cai4" },
+        "meanings": ["dish", "vegetable", "cuisine"],
+        "meanings_th": ["กับข้าว", "อาหาร", "ผัก"]
+      }
+    ]
+  },
+  {
+    "simplified": "茶",
+    "radical": "艹",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "茶",
+        "transcriptions": { "pinyin": "chá", "numeric": "cha2" },
+        "meanings": ["tea"],
+        "meanings_th": ["ชา"]
+      }
+    ]
+  },
+  {
+    "simplified": "唱",
+    "radical": "口",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "唱",
+        "transcriptions": { "pinyin": "chàng", "numeric": "chang4" },
+        "meanings": ["to sing"],
+        "meanings_th": ["ร้องเพลง"]
+      }
+    ]
+  },
+  {
+    "simplified": "超市",
+    "radical": "走",
+    "level": ["newest-1", "new-2", "old-3"],
+    "forms": [
+      {
+        "traditional": "超市",
+        "transcriptions": { "pinyin": "chāo shì", "numeric": "chao1 shi4" },
+        "meanings": ["supermarket"],
+        "meanings_th": ["ซูเปอร์มาร์เก็ต"]
+      }
+    ]
+  },
+  {
+    "simplified": "车",
+    "radical": "车",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "車",
+        "transcriptions": { "pinyin": "chē", "numeric": "che1" },
+        "meanings": ["car", "vehicle"],
+        "meanings_th": ["รถ"]
+      }
+    ]
+  },
+  {
+    "simplified": "吃",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "吃",
+        "transcriptions": { "pinyin": "chī", "numeric": "chi1" },
+        "meanings": ["to eat"],
+        "meanings_th": ["กิน", "ทาน"]
+      }
+    ]
+  },
+  {
+    "simplified": "出租车",
+    "radical": "凵",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "出租車",
+        "transcriptions": { "pinyin": "chū zū chē", "numeric": "chu1 zu1 che1" },
+        "meanings": ["taxi"],
+        "meanings_th": ["รถแท็กซี่", "แท็กซี่"]
+      }
+    ]
+  },
+  {
+    "simplified": "穿",
+    "radical": "穴",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "穿",
+        "transcriptions": { "pinyin": "chuān", "numeric": "chuan1" },
+        "meanings": ["to wear", "to put on"],
+        "meanings_th": ["ใส่", "สวมใส่"]
+      }
+    ]
+  },
+  {
+    "simplified": "打电话",
+    "radical": "扌",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "打電話",
+        "transcriptions": { "pinyin": "dǎ diàn huà", "numeric": "da3 dian4 hua4" },
+        "meanings": ["to make a phone call"],
+        "meanings_th": ["โทรศัพท์", "โทร"]
+      }
+    ]
+  },
+  {
+    "simplified": "大",
+    "radical": "大",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "大",
+        "transcriptions": { "pinyin": "dà", "numeric": "da4" },
+        "meanings": ["big", "large", "great"],
+        "meanings_th": ["ใหญ่"]
+      }
+    ]
+  },
+  {
+    "simplified": "大家",
+    "radical": "大",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "大家",
+        "transcriptions": { "pinyin": "dà jiā", "numeric": "da4 jia1" },
+        "meanings": ["everyone"],
+        "meanings_th": ["ทุกคน"]
+      }
+    ]
+  },
+  {
+    "simplified": "大学",
+    "radical": "大",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "大學",
+        "transcriptions": { "pinyin": "dà xué", "numeric": "da4 xue2" },
+        "meanings": ["university", "college"],
+        "meanings_th": ["มหาวิทยาลัย"]
+      }
+    ]
+  },
+  {
+    "simplified": "大学生",
+    "radical": "大",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "大學生",
+        "transcriptions": { "pinyin": "dà xué shēng", "numeric": "da4 xue2 sheng1" },
+        "meanings": ["university student"],
+        "meanings_th": ["นักศึกษามหาวิทยาลัย"]
+      }
+    ]
+  },
+  {
+    "simplified": "到",
+    "radical": "刂",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "到",
+        "transcriptions": { "pinyin": "dào", "numeric": "dao4" },
+        "meanings": ["to reach", "to arrive"],
+        "meanings_th": ["ถึง", "มาถึง"]
+      }
+    ]
+  },
+  {
+    "simplified": "的",
+    "radical": "白",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "的",
+        "transcriptions": { "pinyin": "de", "numeric": "de5" },
+        "meanings": ["possessive particle 's", "of"],
+        "meanings_th": ["ของ"]
+      }
+    ]
+  },
+  {
+    "simplified": "弟弟",
+    "radical": "弓",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "弟弟",
+        "transcriptions": { "pinyin": "dì di", "numeric": "di4 di5" },
+        "meanings": ["younger brother"],
+        "meanings_th": ["น้องชาย"]
+      }
+    ]
+  },
+  {
+    "simplified": "第",
+    "radical": "⺮",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "第",
+        "transcriptions": { "pinyin": "dì", "numeric": "di4" },
+        "meanings": ["prefix for ordinal numbers (first, second, etc.)"],
+        "meanings_th": ["ที่ (ลำดับที่)"]
+      }
+    ]
+  },
+  {
+    "simplified": "点",
+    "radical": "灬",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "點",
+        "transcriptions": { "pinyin": "diǎn", "numeric": "dian3" },
+        "meanings": ["o'clock", "point", "dot", "to order food"],
+        "meanings_th": ["โมง", "แต้ม", "จุด"]
+      }
+    ]
+  },
+  {
+    "simplified": "电话",
+    "radical": "曰",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "電話",
+        "transcriptions": { "pinyin": "diàn huà", "numeric": "dian4 hua4" },
+        "meanings": ["telephone", "phone call"],
+        "meanings_th": ["โทรศัพท์"]
+      }
+    ]
+  },
+  {
+    "simplified": "电脑",
+    "radical": "曰",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "電腦",
+        "transcriptions": { "pinyin": "diàn nǎo", "numeric": "dian4 nao3" },
+        "meanings": ["computer"],
+        "meanings_th": ["คอมพิวเตอร์"]
+      }
+    ]
+  },
+  {
+    "simplified": "电视",
+    "radical": "曰",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "電視",
+        "transcriptions": { "pinyin": "diàn shì", "numeric": "dian4 shi4" },
+        "meanings": ["television", "TV"],
+        "meanings_th": ["โทรทัศน์", "ทีวี"]
+      }
+    ]
+  },
+  {
+    "simplified": "电影",
+    "radical": "曰",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "電影",
+        "transcriptions": { "pinyin": "diàn yǐng", "numeric": "dian4 ying3" },
+        "meanings": ["movie", "film"],
+        "meanings_th": ["ภาพยนตร์", "หนัง"]
+      }
+    ]
+  },
+  {
+    "simplified": "电影院",
+    "radical": "曰",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "電影院",
+        "transcriptions": { "pinyin": "diàn yǐng yuàn", "numeric": "dian4 ying3 yuan4" },
+        "meanings": ["cinema", "movie theater"],
+        "meanings_th": ["โรงภาพยนตร์", "โรงหนัง"]
+      }
+    ]
+  },
+  {
+    "simplified": "店",
+    "radical": "广",
+    "level": ["newest-1", "new-2"],
+    "forms": [
+      {
+        "traditional": "店",
+        "transcriptions": { "pinyin": "diàn", "numeric": "dian4" },
+        "meanings": ["shop", "store"],
+        "meanings_th": ["ร้าน"]
+      }
+    ]
+  },
+  {
+    "simplified": "东西",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "東西",
+        "transcriptions": { "pinyin": "dōng xi", "numeric": "dong1 xi5" },
+        "meanings": ["thing", "stuff"],
+        "meanings_th": ["ของ", "สิ่งของ"]
+      }
+    ]
+  },
+  {
+    "simplified": "都",
+    "radical": "阝",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "都",
+        "transcriptions": { "pinyin": "dōu", "numeric": "dou1" },
+        "meanings": ["all", "both", "entirely"],
+        "meanings_th": ["ทั้งหมด", "ล้วนแต่"]
+      }
+    ]
+  },
+  {
+    "simplified": "读",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "讀",
+        "transcriptions": { "pinyin": "dú", "numeric": "du2" },
+        "meanings": ["to read", "to study"],
+        "meanings_th": ["อ่าน"]
+      }
+    ]
+  },
+  {
+    "simplified": "读书",
+    "radical": "讠",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "讀書",
+        "transcriptions": { "pinyin": "dú shū", "numeric": "du2 shu1" },
+        "meanings": ["to read a book", "to study"],
+        "meanings_th": ["อ่านหนังสือ", "เรียนหนังสือ"]
+      }
+    ]
+  },
+  {
+    "simplified": "对",
+    "radical": "寸",
+    "level": ["newest-1", "new-1", "old-4"],
+    "forms": [
+      {
+        "traditional": "對",
+        "transcriptions": { "pinyin": "duì", "numeric": "dui4" },
+        "meanings": ["right", "correct", "towards"],
+        "meanings_th": ["ถูกต้อง", "ใช่", "กับ"]
+      }
+    ]
+  },
+  {
+    "simplified": "对不起",
+    "radical": "寸",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "對不起",
+        "transcriptions": { "pinyin": "duì bu qǐ", "numeric": "dui4 bu5 qi3" },
+        "meanings": ["I'm sorry", "excuse me"],
+        "meanings_th": ["ขอโทษ"]
+      }
+    ]
+  },
+  {
+    "simplified": "多",
+    "radical": "夕",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "多",
+        "transcriptions": { "pinyin": "duō", "numeric": "duo1" },
+        "meanings": ["many", "much", "how (extent)"],
+        "meanings_th": ["มาก", "เยอะ"]
+      }
+    ]
+  },
+  {
+    "simplified": "多少",
+    "radical": "夕",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "多少",
+        "transcriptions": { "pinyin": "duō shao", "numeric": "duo1 shao5" },
+        "meanings": ["how much", "how many"],
+        "meanings_th": ["เท่าไหร่"]
+      }
+    ]
+  },
+  {
+    "simplified": "儿子",
+    "radical": "儿",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "兒子",
+        "transcriptions": { "pinyin": "ér zi", "numeric": "er2 zi5" },
+        "meanings": ["son"],
+        "meanings_th": ["ลูกชาย"]
+      }
+    ]
+  },
+  {
+    "simplified": "二",
+    "radical": "二",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "二",
+        "transcriptions": { "pinyin": "èr", "numeric": "er4" },
+        "meanings": ["two", "2"],
+        "meanings_th": ["สอง"]
+      }
+    ]
+  },
+  {
+    "simplified": "饭",
+    "radical": "饣",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "飯",
+        "transcriptions": { "pinyin": "fàn", "numeric": "fan4" },
+        "meanings": ["cooked rice", "meal"],
+        "meanings_th": ["ข้าว", "มื้ออาหาร"]
+      }
+    ]
+  },
+  {
+    "simplified": "饭店",
+    "radical": "饣",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "飯店",
+        "transcriptions": { "pinyin": "fàn diàn", "numeric": "fan4 dian4" },
+        "meanings": ["restaurant", "hotel"],
+        "meanings_th": ["ร้านอาหาร", "โรงแรม"]
+      }
+    ]
+  },
+  {
+    "simplified": "房间",
+    "radical": "户",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "房間",
+        "transcriptions": { "pinyin": "fáng jiān", "numeric": "fang2 jian1" },
+        "meanings": ["room"],
+        "meanings_th": ["ห้อง"]
+      }
+    ]
+  },
+  {
+    "simplified": "飞机",
+    "radical": "飞",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "飛機",
+        "transcriptions": { "pinyin": "fēi jī", "numeric": "fei1 ji1" },
+        "meanings": ["airplane"],
+        "meanings_th": ["เครื่องบิน"]
+      }
+    ]
+  },
+  {
+    "simplified": "非常",
+    "radical": "非",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "非常",
+        "transcriptions": { "pinyin": "fēi cháng", "numeric": "fei1 chang2" },
+        "meanings": ["very", "really", "unusual"],
+        "meanings_th": ["มาก"]
+      }
+    ]
+  },
+  {
+    "simplified": "分",
+    "radical": "刀",
+    "level": ["newest-1", "new-1", "old-3"],
+    "forms": [
+      {
+        "traditional": "分",
+        "transcriptions": { "pinyin": "fēn", "numeric": "fen1" },
+        "meanings": ["minute", "point/score", "cent (money)", "to divide"],
+        "meanings_th": ["นาที", "คะแนน", "แบ่ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "分钟",
+    "radical": "刀",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "分鐘",
+        "transcriptions": { "pinyin": "fēn zhōng", "numeric": "fen1 zhong1" },
+        "meanings": ["minute"],
+        "meanings_th": ["นาที"]
+      }
+    ]
+  },
+  {
+    "simplified": "高兴",
+    "radical": "高",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "高興",
+        "transcriptions": { "pinyin": "gāo xìng", "numeric": "gao1 xing4" },
+        "meanings": ["happy", "glad"],
+        "meanings_th": ["ดีใจ", "มีความสุข"]
+      }
+    ]
+  },
+  {
+    "simplified": "哥哥",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "哥哥",
+        "transcriptions": { "pinyin": "gē ge", "numeric": "ge1 ge5" },
+        "meanings": ["older brother"],
+        "meanings_th": ["พี่ชาย"]
+      }
+    ]
+  },
+  {
+    "simplified": "歌",
+    "radical": "欠",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "歌",
+        "transcriptions": { "pinyin": "gē", "numeric": "ge1" },
+        "meanings": ["song"],
+        "meanings_th": ["เพลง"]
+      }
+    ]
+  },
+  {
+    "simplified": "个",
+    "radical": "丨",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "個",
+        "transcriptions": { "pinyin": "gè", "numeric": "ge4" },
+        "meanings": ["classifier for people/things", "individual"],
+        "meanings_th": ["อัน", "คน", "ชิ้น"]
+      }
+    ]
+  },
+  {
+    "simplified": "给",
+    "radical": "纟",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "給",
+        "transcriptions": { "pinyin": "gěi", "numeric": "gei3" },
+        "meanings": ["to give", "to", "for"],
+        "meanings_th": ["ให้", "แก่"]
+      }
+    ]
+  },
+  {
+    "simplified": "工作",
+    "radical": "工",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "工作",
+        "transcriptions": { "pinyin": "gōng zuò", "numeric": "gong1 zuo4" },
+        "meanings": ["work", "job", "to work"],
+        "meanings_th": ["ทำงาน", "งาน"]
+      }
+    ]
+  },
+  {
+    "simplified": "公司",
+    "radical": "八",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "公司",
+        "transcriptions": { "pinyin": "gōng sī", "numeric": "gong1 si1" },
+        "meanings": ["company", "firm"],
+        "meanings_th": ["บริษัท"]
+      }
+    ]
+  },
+  {
+    "simplified": "狗",
+    "radical": "犭",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "狗",
+        "transcriptions": { "pinyin": "gǒu", "numeric": "gou3" },
+        "meanings": ["dog"],
+        "meanings_th": ["สุนัข", "หมา"]
+      }
+    ]
+  },
+  {
+    "simplified": "贵",
+    "radical": "贝",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "貴",
+        "transcriptions": { "pinyin": "guì", "numeric": "gui4" },
+        "meanings": ["expensive", "noble", "honorific 'your'"],
+        "meanings_th": ["แพง", "มีเกียรติ"]
+      }
+    ]
+  },
+  {
+    "simplified": "国",
+    "radical": "囗",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "國",
+        "transcriptions": { "pinyin": "guó", "numeric": "guo2" },
+        "meanings": ["country", "nation", "state"],
+        "meanings_th": ["ประเทศ"]
+      }
+    ]
+  },
+  {
+    "simplified": "还",
+    "radical": "辶",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "還",
+        "transcriptions": { "pinyin": "hái", "numeric": "hai2" },
+        "meanings": ["still", "yet", "also", "even more"],
+        "meanings_th": ["ยัง", "ยังคง"]
+      }
+    ]
+  },
+  {
+    "simplified": "孩子",
+    "radical": "子",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "孩子",
+        "transcriptions": { "pinyin": "hái zi", "numeric": "hai2 zi5" },
+        "meanings": ["child"],
+        "meanings_th": ["เด็ก", "ลูก"]
+      }
+    ]
+  },
+  {
+    "simplified": "汉语",
+    "radical": "氵",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "漢語",
+        "transcriptions": { "pinyin": "Hàn yǔ", "numeric": "Han4 yu3" },
+        "meanings": ["Chinese language"],
+        "meanings_th": ["ภาษาจีน"]
+      }
+    ]
+  },
+  {
+    "simplified": "汉字",
+    "radical": "氵",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "漢字",
+        "transcriptions": { "pinyin": "hàn zì", "numeric": "han4 zi4" },
+        "meanings": ["Chinese character"],
+        "meanings_th": ["ตัวอักษรจีน"]
+      }
+    ]
+  },
+  {
+    "simplified": "好",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "好",
+        "transcriptions": { "pinyin": "hǎo", "numeric": "hao3" },
+        "meanings": ["good", "well", "okay"],
+        "meanings_th": ["ดี"]
+      }
+    ]
+  },
+  {
+    "simplified": "好吃",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "好吃",
+        "transcriptions": { "pinyin": "hǎo chī", "numeric": "hao3 chi1" },
+        "meanings": ["tasty", "delicious"],
+        "meanings_th": ["อร่อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "好看",
+    "radical": "女",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "好看",
+        "transcriptions": { "pinyin": "hǎo kàn", "numeric": "hao3 kan4" },
+        "meanings": ["good-looking", "beautiful"],
+        "meanings_th": ["สวย", "ดูดี"]
+      }
+    ]
+  },
+  {
+    "simplified": "好听",
+    "radical": "女",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "好聽",
+        "transcriptions": { "pinyin": "hǎo tīng", "numeric": "hao3 ting1" },
+        "meanings": ["pleasant to hear"],
+        "meanings_th": ["เพราะ", "ไพเราะ"]
+      }
+    ]
+  },
+  {
+    "simplified": "好玩儿",
+    "radical": "女",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "好玩兒",
+        "transcriptions": { "pinyin": "hǎo wán r", "numeric": "hao3 wan2 r5" },
+        "meanings": ["fun", "amusing", "interesting"],
+        "meanings_th": ["สนุก"]
+      }
+    ]
+  },
+  {
+    "simplified": "号",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "號",
+        "transcriptions": { "pinyin": "hào", "numeric": "hao4" },
+        "meanings": ["date", "number", "size"],
+        "meanings_th": ["วันที่", "หมายเลข"]
+      }
+    ]
+  },
+  {
+    "simplified": "喝",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "喝",
+        "transcriptions": { "pinyin": "hē", "numeric": "he1" },
+        "meanings": ["to drink"],
+        "meanings_th": ["ดื่ม"]
+      }
+    ]
+  },
+  {
+    "simplified": "和",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "和",
+        "transcriptions": { "pinyin": "hé", "numeric": "he2" },
+        "meanings": ["and", "with", "sum"],
+        "meanings_th": ["และ", "กับ"]
+      }
+    ]
+  },
+  {
+    "simplified": "很",
+    "radical": "彳",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "很",
+        "transcriptions": { "pinyin": "hěn", "numeric": "hen3" },
+        "meanings": ["very", "quite"],
+        "meanings_th": ["มาก"]
+      }
+    ]
+  },
+  {
+    "simplified": "后",
+    "radical": "口",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "後",
+        "transcriptions": { "pinyin": "hòu", "numeric": "hou4" },
+        "meanings": ["back", "behind", "after"],
+        "meanings_th": ["หลัง", "ด้านหลัง"]
+      }
+    ]
+  },
+  {
+    "simplified": "回",
+    "radical": "囗",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "回",
+        "transcriptions": { "pinyin": "huí", "numeric": "hui2" },
+        "meanings": ["to go back", "to return", "time (classifier)"],
+        "meanings_th": ["กลับ", "ครั้ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "会",
+    "radical": "人",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "會",
+        "transcriptions": { "pinyin": "huì", "numeric": "hui4" },
+        "meanings": ["can", "be able to", "meeting"],
+        "meanings_th": ["เป็น", "สามารถ", "ประชุม"]
+      }
+    ]
+  },
+  {
+    "simplified": "火车",
+    "radical": "火",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "火車",
+        "transcriptions": { "pinyin": "huǒ chē", "numeric": "huo3 che1" },
+        "meanings": ["train"],
+        "meanings_th": ["รถไฟ"]
+      }
+    ]
+  },
+  {
+    "simplified": "鸡蛋",
+    "radical": "鸟",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "雞蛋",
+        "transcriptions": { "pinyin": "jī dàn", "numeric": "ji1 dan4" },
+        "meanings": ["(chicken) egg"],
+        "meanings_th": ["ไข่ไก่", "ไข่"]
+      }
+    ]
+  },
+  {
+    "simplified": "几",
+    "radical": "几",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "幾",
+        "transcriptions": { "pinyin": "jǐ", "numeric": "ji3" },
+        "meanings": ["how many", "several", "a few"],
+        "meanings_th": ["กี่", "สองสาม"]
+      }
+    ]
+  },
+  {
+    "simplified": "家",
+    "radical": "宀",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "家",
+        "transcriptions": { "pinyin": "jiā", "numeric": "jia1" },
+        "meanings": ["home", "family", "classifier for businesses"],
+        "meanings_th": ["บ้าน", "ครอบครัว"]
+      }
+    ]
+  },
+  {
+    "simplified": "家人",
+    "radical": "宀",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "家人",
+        "transcriptions": { "pinyin": "jiā rén", "numeric": "jia1 ren2" },
+        "meanings": ["family member"],
+        "meanings_th": ["คนในครอบครัว"]
+      }
+    ]
+  },
+  {
+    "simplified": "见",
+    "radical": "见",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "見",
+        "transcriptions": { "pinyin": "jiàn", "numeric": "jian4" },
+        "meanings": ["to see", "to meet"],
+        "meanings_th": ["พบ", "เจอ"]
+      }
+    ]
+  },
+  {
+    "simplified": "件",
+    "radical": "亻",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "件",
+        "transcriptions": { "pinyin": "jiàn", "numeric": "jian4" },
+        "meanings": ["classifier for clothes/matters", "item"],
+        "meanings_th": ["ชิ้น", "ตัว", "เรื่อง"]
+      }
+    ]
+  },
+  {
+    "simplified": "饺子",
+    "radical": "饣",
+    "level": ["newest-1", "new-2", "old-4"],
+    "forms": [
+      {
+        "traditional": "餃子",
+        "transcriptions": { "pinyin": "jiǎo zi", "numeric": "jiao3 zi5" },
+        "meanings": ["dumpling"],
+        "meanings_th": ["เกี๊ยว"]
+      }
+    ]
+  },
+  {
+    "simplified": "叫",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "叫",
+        "transcriptions": { "pinyin": "jiào", "numeric": "jiao4" },
+        "meanings": ["to call", "to be called", "to bark"],
+        "meanings_th": ["เรียก", "ชื่อว่า"]
+      }
+    ]
+  },
+  {
+    "simplified": "姐姐",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "姐姐",
+        "transcriptions": { "pinyin": "jiě jie", "numeric": "jie3 jie5" },
+        "meanings": ["older sister"],
+        "meanings_th": ["พี่สาว"]
+      }
+    ]
+  },
+  {
+    "simplified": "今年",
+    "radical": "人",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "今年",
+        "transcriptions": { "pinyin": "jīn nián", "numeric": "jin1 nian2" },
+        "meanings": ["this year"],
+        "meanings_th": ["ปีนี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "今天",
+    "radical": "人",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "今天",
+        "transcriptions": { "pinyin": "jīn tiān", "numeric": "jin1 tian1" },
+        "meanings": ["today"],
+        "meanings_th": ["วันนี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "九",
+    "radical": "乙",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "九",
+        "transcriptions": { "pinyin": "jiǔ", "numeric": "jiu3" },
+        "meanings": ["nine", "9"],
+        "meanings_th": ["เก้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "觉得",
+    "radical": "见",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "覺得",
+        "transcriptions": { "pinyin": "jué de", "numeric": "jue2 de5" },
+        "meanings": ["to think", "to feel"],
+        "meanings_th": ["รู้สึก", "คิดว่า"]
+      }
+    ]
+  },
+  {
+    "simplified": "开",
+    "radical": "廾",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "開",
+        "transcriptions": { "pinyin": "kāi", "numeric": "kai1" },
+        "meanings": ["to open", "to start", "to turn on", "to drive"],
+        "meanings_th": ["เปิด", "ขับ"]
+      }
+    ]
+  },
+  {
+    "simplified": "开车",
+    "radical": "廾",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "開車",
+        "transcriptions": { "pinyin": "kāi chē", "numeric": "kai1 che1" },
+        "meanings": ["to drive a car"],
+        "meanings_th": ["ขับรถ"]
+      }
+    ]
+  },
+  {
+    "simplified": "看",
+    "radical": "目",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "看",
+        "transcriptions": { "pinyin": "kàn", "numeric": "kan4" },
+        "meanings": ["to see", "to look at", "to read", "to watch"],
+        "meanings_th": ["ดู", "มอง"]
+      }
+    ]
+  },
+  {
+    "simplified": "看病",
+    "radical": "目",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "看病",
+        "transcriptions": { "pinyin": "kàn bìng", "numeric": "kan4 bing4" },
+        "meanings": ["to visit a doctor", "to see a patient"],
+        "meanings_th": ["ไปหาหมอ", "ตรวจโรค"]
+      }
+    ]
+  },
+  {
+    "simplified": "看见",
+    "radical": "目",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "看見",
+        "transcriptions": { "pinyin": "kàn jiàn", "numeric": "kan4 jian4" },
+        "meanings": ["to see", "to catch sight of"],
+        "meanings_th": ["เห็น"]
+      }
+    ]
+  },
+  {
+    "simplified": "可以",
+    "radical": "口",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "可以",
+        "transcriptions": { "pinyin": "kě yǐ", "numeric": "ke3 yi3" },
+        "meanings": ["can", "may", "possible"],
+        "meanings_th": ["ได้", "สามารถ"]
+      }
+    ]
+  },
+  {
+    "simplified": "课",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "課",
+        "transcriptions": { "pinyin": "kè", "numeric": "ke4" },
+        "meanings": ["class", "lesson", "course"],
+        "meanings_th": ["บทเรียน", "วิชา"]
+      }
+    ]
+  },
+  {
+    "simplified": "口",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-3"],
+    "forms": [
+      {
+        "traditional": "口",
+        "transcriptions": { "pinyin": "kǒu", "numeric": "kou3" },
+        "meanings": ["mouth", "classifier for family members/mouthfuls"],
+        "meanings_th": ["ปาก"]
+      }
+    ]
+  },
+  {
+    "simplified": "块",
+    "radical": "土",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "塊",
+        "transcriptions": { "pinyin": "kuài", "numeric": "kuai4" },
+        "meanings": ["lump/piece", "classifier for money (Yuan)"],
+        "meanings_th": ["ชิ้น", "หยวน (ค่าเงิน)"]
+      }
+    ]
+  },
+  {
+    "simplified": "来",
+    "radical": "木",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "來",
+        "transcriptions": { "pinyin": "lái", "numeric": "lai2" },
+        "meanings": ["to come", "to arrive"],
+        "meanings_th": ["มา"]
+      }
+    ]
+  },
+  {
+    "simplified": "老师",
+    "radical": "老",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "老師",
+        "transcriptions": { "pinyin": "lǎo shī", "numeric": "lao3 shi1" },
+        "meanings": ["teacher"],
+        "meanings_th": ["ครู", "อาจารย์"]
+      }
+    ]
+  },
+  {
+    "simplified": "了",
+    "radical": "亅",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "了",
+        "transcriptions": { "pinyin": "le", "numeric": "le5" },
+        "meanings": ["completed action marker", "change of state marker"],
+        "meanings_th": ["แล้ว"]
+      }
+    ]
+  },
+  {
+    "simplified": "冷",
+    "radical": "冫",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "冷",
+        "transcriptions": { "pinyin": "lěng", "numeric": "leng3" },
+        "meanings": ["cold"],
+        "meanings_th": ["หนาว"]
+      }
+    ]
+  },
+  {
+    "simplified": "里",
+    "radical": "里",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "裡",
+        "transcriptions": { "pinyin": "lǐ", "numeric": "li3" },
+        "meanings": ["inside", "interior"],
+        "meanings_th": ["ใน", "ภายใน"]
+      }
+    ]
+  },
+  {
+    "simplified": "两",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "兩",
+        "transcriptions": { "pinyin": "liǎng", "numeric": "liang3" },
+        "meanings": ["two", "both"],
+        "meanings_th": ["สอง"]
+      }
+    ]
+  },
+  {
+    "simplified": "零",
+    "radical": "雨",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "零",
+        "transcriptions": { "pinyin": "líng", "numeric": "ling2" },
+        "meanings": ["zero", "0"],
+        "meanings_th": ["ศูนย์"]
+      }
+    ]
+  },
+  {
+    "simplified": "六",
+    "radical": "八",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "六",
+        "transcriptions": { "pinyin": "liù", "numeric": "liu4" },
+        "meanings": ["six", "6"],
+        "meanings_th": ["หก"]
+      }
+    ]
+  },
+  {
+    "simplified": "妈妈",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "媽媽",
+        "transcriptions": { "pinyin": "mā ma", "numeric": "ma1 ma5" },
+        "meanings": ["mother", "mom"],
+        "meanings_th": ["แม่"]
+      }
+    ]
+  },
+  {
+    "simplified": "吗",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "嗎",
+        "transcriptions": { "pinyin": "ma", "numeric": "ma5" },
+        "meanings": ["question particle for yes-no questions"],
+        "meanings_th": ["ไหม", "หรือเปล่า"]
+      }
+    ]
+  },
+  {
+    "simplified": "买",
+    "radical": "大",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "買",
+        "transcriptions": { "pinyin": "mǎi", "numeric": "mai3" },
+        "meanings": ["to buy", "to purchase"],
+        "meanings_th": ["ซื้อ"]
+      }
+    ]
+  },
+  {
+    "simplified": "卖",
+    "radical": "十",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "賣",
+        "transcriptions": { "pinyin": "mài", "numeric": "mai4" },
+        "meanings": ["to sell"],
+        "meanings_th": ["ขาย"]
+      }
+    ]
+  },
+  {
+    "simplified": "忙",
+    "radical": "忄",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "忙",
+        "transcriptions": { "pinyin": "máng", "numeric": "mang2" },
+        "meanings": ["busy"],
+        "meanings_th": ["ยุ่ง", "ไม่ว่าง"]
+      }
+    ]
+  },
+  {
+    "simplified": "猫",
+    "radical": "犭",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "貓",
+        "transcriptions": { "pinyin": "māo", "numeric": "mao1" },
+        "meanings": ["cat"],
+        "meanings_th": ["แมว"]
+      }
+    ]
+  },
+  {
+    "simplified": "没关系",
+    "radical": "氵",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "沒關係",
+        "transcriptions": { "pinyin": "méi guān xi", "numeric": "mei2 guan1 xi5" },
+        "meanings": ["it doesn't matter", "never mind"],
+        "meanings_th": ["ไม่เป็นไร"]
+      }
+    ]
+  },
+  {
+    "simplified": "没事儿",
+    "radical": "氵",
+    "level": ["new-1", "newest-1"],
+    "forms": [
+      {
+        "traditional": "沒事兒",
+        "transcriptions": { "pinyin": "méi shì r", "numeric": "mei2 shi4 r5" },
+        "meanings": ["no problem", "to be free/have spare time", "it's nothing"],
+        "meanings_th": ["ไม่เป็นไร", "ไม่มีธุระ"]
+      }
+    ]
+  },
+  {
+    "simplified": "没有",
+    "radical": "氵",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "沒有",
+        "transcriptions": { "pinyin": "méi yǒu", "numeric": "mei2 you3" },
+        "meanings": ["to not have", "there is not"],
+        "meanings_th": ["ไม่มี"]
+      }
+    ]
+  },
+  {
+    "simplified": "妹妹",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "妹妹",
+        "transcriptions": { "pinyin": "mèi mei", "numeric": "mei4 mei5" },
+        "meanings": ["younger sister"],
+        "meanings_th": ["น้องสาว"]
+      }
+    ]
+  },
+  {
+    "simplified": "们",
+    "radical": "亻",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "們",
+        "transcriptions": { "pinyin": "men", "numeric": "men5" },
+        "meanings": ["plural marker for people"],
+        "meanings_th": ["พวก"]
+      }
+    ]
+  },
+  {
+    "simplified": "米饭",
+    "radical": "米",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "米飯",
+        "transcriptions": { "pinyin": "mǐ fàn", "numeric": "mi3 fan4" },
+        "meanings": ["cooked rice"],
+        "meanings_th": ["ข้าวสวย"]
+      }
+    ]
+  },
+  {
+    "simplified": "面包",
+    "radical": "面",
+    "level": ["newest-1", "new-1", "old-3"],
+    "forms": [
+      {
+        "traditional": "麵包",
+        "transcriptions": { "pinyin": "miàn bāo", "numeric": "mian4 bao1" },
+        "meanings": ["bread"],
+        "meanings_th": ["ขนมปัง"]
+      }
+    ]
+  },
+  {
+    "simplified": "面条儿",
+    "radical": "面",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "麵條兒",
+        "transcriptions": { "pinyin": "miàn tiáo r", "numeric": "mian4 tiao2 r5" },
+        "meanings": ["noodles"],
+        "meanings_th": ["ก๋วยเตี๋ยว", "บะหมี่"]
+      }
+    ]
+  },
+  {
+    "simplified": "名字",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "名字",
+        "transcriptions": { "pinyin": "míng zi", "numeric": "ming2 zi5" },
+        "meanings": ["name"],
+        "meanings_th": ["ชื่อ"]
+      }
+    ]
+  },
+  {
+    "simplified": "明年",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "明年",
+        "transcriptions": { "pinyin": "míng nián", "numeric": "ming2 nian2" },
+        "meanings": ["next year"],
+        "meanings_th": ["ปีหน้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "明天",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "明天",
+        "transcriptions": { "pinyin": "míng tiān", "numeric": "ming2 tian1" },
+        "meanings": ["tomorrow"],
+        "meanings_th": ["พรุ่งนี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "哪",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "哪",
+        "transcriptions": { "pinyin": "nǎ", "numeric": "na3" },
+        "meanings": ["which"],
+        "meanings_th": ["ไหน"]
+      }
+    ]
+  },
+  {
+    "simplified": "哪儿",
+    "radical": "口",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "哪兒",
+        "transcriptions": { "pinyin": "nǎ r", "numeric": "na3 r5" },
+        "meanings": ["where?"],
+        "meanings_th": ["ที่ไหน"]
+      }
+    ]
+  },
+  {
+    "simplified": "哪里",
+    "radical": "口",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "哪裡",
+        "transcriptions": { "pinyin": "nǎ lǐ", "numeric": "na3 li3" },
+        "meanings": ["where?"],
+        "meanings_th": ["ที่ไหน"]
+      }
+    ]
+  },
+  {
+    "simplified": "哪些",
+    "radical": "口",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "哪些",
+        "transcriptions": { "pinyin": "nǎ xiē", "numeric": "na3 xie1" },
+        "meanings": ["which ones?"],
+        "meanings_th": ["อันไหนบ้าง", "พวกไหน"]
+      }
+    ]
+  },
+  {
+    "simplified": "那",
+    "radical": "阝",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "那",
+        "transcriptions": { "pinyin": "nà", "numeric": "na4" },
+        "meanings": ["that", "those", "then"],
+        "meanings_th": ["นั่น", "นั้น"]
+      }
+    ]
+  },
+  {
+    "simplified": "那边",
+    "radical": "阝",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "那邊",
+        "transcriptions": { "pinyin": "nà bian", "numeric": "na4 bian5" },
+        "meanings": ["over there", "yonder"],
+        "meanings_th": ["ทางนู้น", "ตรงนั้น"]
+      }
+    ]
+  },
+  {
+    "simplified": "那儿",
+    "radical": "阝",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "那兒",
+        "transcriptions": { "pinyin": "nà r", "numeric": "na4 r5" },
+        "meanings": ["there"],
+        "meanings_th": ["ที่นั่น"]
+      }
+    ]
+  },
+  {
+    "simplified": "那里",
+    "radical": "阝",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "那裡",
+        "transcriptions": { "pinyin": "nà li", "numeric": "na4 li5" },
+        "meanings": ["there", "that place"],
+        "meanings_th": ["ที่นั่น"]
+      }
+    ]
+  },
+  {
+    "simplified": "那些",
+    "radical": "阝",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "那些",
+        "transcriptions": { "pinyin": "nà xiē", "numeric": "na4 xie1" },
+        "meanings": ["those"],
+        "meanings_th": ["เหล่านั้น"]
+      }
+    ]
+  },
+  {
+    "simplified": "男",
+    "radical": "田",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "男",
+        "transcriptions": { "pinyin": "nán", "numeric": "nan2" },
+        "meanings": ["male", "man"],
+        "meanings_th": ["ชาย", "ผู้ชาย"]
+      }
+    ]
+  },
+  {
+    "simplified": "男朋友",
+    "radical": "田",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "男朋友",
+        "transcriptions": { "pinyin": "nán péng you", "numeric": "nan2 peng2 you5" },
+        "meanings": ["boyfriend"],
+        "meanings_th": ["แฟน (ผู้ชาย)"]
+      }
+    ]
+  },
+  {
+    "simplified": "呢",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "呢",
+        "transcriptions": { "pinyin": "ne", "numeric": "ne5" },
+        "meanings": ["particle for 'What about...?' or continuation"],
+        "meanings_th": ["ล่ะ", "อยู่"]
+      }
+    ]
+  },
+  {
+    "simplified": "能",
+    "radical": "⺼",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "能",
+        "transcriptions": { "pinyin": "néng", "numeric": "neng2" },
+        "meanings": ["can", "to be able to"],
+        "meanings_th": ["สามารถ", "ได้"]
+      }
+    ]
+  },
+  {
+    "simplified": "你",
+    "radical": "亻",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "你",
+        "transcriptions": { "pinyin": "nǐ", "numeric": "ni3" },
+        "meanings": ["you (singular/informal)"],
+        "meanings_th": ["คุณ", "เธอ"]
+      }
+    ]
+  },
+  {
+    "simplified": "你们",
+    "radical": "亻",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "你們",
+        "transcriptions": { "pinyin": "nǐ men", "numeric": "ni3 men5" },
+        "meanings": ["you (plural)"],
+        "meanings_th": ["พวกคุณ"]
+      }
+    ]
+  },
+  {
+    "simplified": "年",
+    "radical": "干",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "年",
+        "transcriptions": { "pinyin": "nián", "numeric": "nian2" },
+        "meanings": ["year"],
+        "meanings_th": ["ปี"]
+      }
+    ]
+  },
+  {
+    "simplified": "您",
+    "radical": "心",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "您",
+        "transcriptions": { "pinyin": "nín", "numeric": "nin2" },
+        "meanings": ["you (courteous/formal)"],
+        "meanings_th": ["ท่าน", "คุณ (สุภาพ)"]
+      }
+    ]
+  },
+  {
+    "simplified": "牛奶",
+    "radical": "牛",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "牛奶",
+        "transcriptions": { "pinyin": "niú nǎi", "numeric": "niu2 nai3" },
+        "meanings": ["cow's milk"],
+        "meanings_th": ["นมวัว", "นม"]
+      }
+    ]
+  },
+  {
+    "simplified": "女",
+    "radical": "女",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "女",
+        "transcriptions": { "pinyin": "nǚ", "numeric": "nü3" },
+        "meanings": ["female", "woman"],
+        "meanings_th": ["หญิง", "ผู้หญิง"]
+      }
+    ]
+  },
+  {
+    "simplified": "女儿",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "女兒",
+        "transcriptions": { "pinyin": "nǚ ér", "numeric": "nü3 er2" },
+        "meanings": ["daughter"],
+        "meanings_th": ["ลูกสาว"]
+      }
+    ]
+  },
+  {
+    "simplified": "女朋友",
+    "radical": "女",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "女朋友",
+        "transcriptions": { "pinyin": "nǚ péng you", "numeric": "nü3 peng2 you5" },
+        "meanings": ["girlfriend"],
+        "meanings_th": ["แฟน (ผู้หญิง)"]
+      }
+    ]
+  },
+  {
+    "simplified": "女士",
+    "radical": "女",
+    "level": ["newest-1", "new-4", "old-5"],
+    "forms": [
+      {
+        "traditional": "女士",
+        "transcriptions": { "pinyin": "nǚ shì", "numeric": "nü3 shi4" },
+        "meanings": ["lady", "madam", "Ms"],
+        "meanings_th": ["คุณสุภาพสตรี"]
+      }
+    ]
+  },
+  {
+    "simplified": "朋友",
+    "radical": "月",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "朋友",
+        "transcriptions": { "pinyin": "péng you", "numeric": "peng2 you5" },
+        "meanings": ["friend"],
+        "meanings_th": ["เพื่อน"]
+      }
+    ]
+  },
+  {
+    "simplified": "漂亮",
+    "radical": "氵",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "漂亮",
+        "transcriptions": { "pinyin": "piào liang", "numeric": "piao4 liang5" },
+        "meanings": ["pretty", "beautiful"],
+        "meanings_th": ["สวย"]
+      }
+    ]
+  },
+  {
+    "simplified": "苹果",
+    "radical": "艹",
+    "level": ["newest-1", "new-3", "old-1"],
+    "forms": [
+      {
+        "traditional": "蘋果",
+        "transcriptions": { "pinyin": "píng guǒ", "numeric": "ping2 guo3" },
+        "meanings": ["apple"],
+        "meanings_th": ["แอปเปิ้ล"]
+      }
+    ]
+  },
+  {
+    "simplified": "七",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "七",
+        "transcriptions": { "pinyin": "qī", "numeric": "qi1" },
+        "meanings": ["seven", "7"],
+        "meanings_th": ["เจ็ด"]
+      }
+    ]
+  },
+  {
+    "simplified": "起床",
+    "radical": "走",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "起床",
+        "transcriptions": { "pinyin": "qǐ chuáng", "numeric": "qi3 chuang2" },
+        "meanings": ["to get out of bed", "to get up"],
+        "meanings_th": ["ตื่นนอน"]
+      }
+    ]
+  },
+  {
+    "simplified": "千",
+    "radical": "十",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "千",
+        "transcriptions": { "pinyin": "qiān", "numeric": "qian1" },
+        "meanings": ["thousand"],
+        "meanings_th": ["พัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "前",
+    "radical": "刂",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "前",
+        "transcriptions": { "pinyin": "qián", "numeric": "qian2" },
+        "meanings": ["front", "before", "ago"],
+        "meanings_th": ["หน้า", "ก่อน"]
+      }
+    ]
+  },
+  {
+    "simplified": "钱",
+    "radical": "钅",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "錢",
+        "transcriptions": { "pinyin": "qián", "numeric": "qian2" },
+        "meanings": ["money", "coin"],
+        "meanings_th": ["เงิน"]
+      }
+    ]
+  },
+  {
+    "simplified": "请",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "請",
+        "transcriptions": { "pinyin": "qǐng", "numeric": "qing3" },
+        "meanings": ["please", "to invite", "to ask"],
+        "meanings_th": ["เชิญ", "กรุณา", "ขอ"]
+      }
+    ]
+  },
+  {
+    "simplified": "请问",
+    "radical": "讠",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "請問",
+        "transcriptions": { "pinyin": "qǐng wèn", "numeric": "qing3 wen4" },
+        "meanings": ["Excuse me, may I ask...?"],
+        "meanings_th": ["ขอถามหน่อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "去",
+    "radical": "厶",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "去",
+        "transcriptions": { "pinyin": "qù", "numeric": "qu4" },
+        "meanings": ["to go", "last (year/time)"],
+        "meanings_th": ["ไป"]
+      }
+    ]
+  },
+  {
+    "simplified": "去年",
+    "radical": "厶",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "去年",
+        "transcriptions": { "pinyin": "qù nián", "numeric": "qu4 nian2" },
+        "meanings": ["last year"],
+        "meanings_th": ["ปีที่แล้ว"]
+      }
+    ]
+  },
+  {
+    "simplified": "热",
+    "radical": "灬",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "熱",
+        "transcriptions": { "pinyin": "rè", "numeric": "re4" },
+        "meanings": ["hot", "heat"],
+        "meanings_th": ["ร้อน"]
+      }
+    ]
+  },
+  {
+    "simplified": "人",
+    "radical": "人",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "人",
+        "transcriptions": { "pinyin": "rén", "numeric": "ren2" },
+        "meanings": ["person", "people"],
+        "meanings_th": ["คน"]
+      }
+    ]
+  },
+  {
+    "simplified": "认识",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "認識",
+        "transcriptions": { "pinyin": "rèn shi", "numeric": "ren4 shi5" },
+        "meanings": ["to know (someone)", "to recognize"],
+        "meanings_th": ["รู้จัก"]
+      }
+    ]
+  },
+  {
+    "simplified": "日",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "日",
+        "transcriptions": { "pinyin": "rì", "numeric": "ri4" },
+        "meanings": ["day", "sun", "date"],
+        "meanings_th": ["วัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "三",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "三",
+        "transcriptions": { "pinyin": "sān", "numeric": "san1" },
+        "meanings": ["three", "3"],
+        "meanings_th": ["สาม"]
+      }
+    ]
+  },
+  {
+    "simplified": "商店",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "商店",
+        "transcriptions": { "pinyin": "shāng diàn", "numeric": "shang1 dian4" },
+        "meanings": ["store", "shop"],
+        "meanings_th": ["ร้านค้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "上",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "上",
+        "transcriptions": { "pinyin": "shàng", "numeric": "shang4" },
+        "meanings": ["up", "above", "previous", "to go up"],
+        "meanings_th": ["บน", "ขึ้น"]
+      }
+    ]
+  },
+  {
+    "simplified": "上班",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "上班",
+        "transcriptions": { "pinyin": "shàng bān", "numeric": "shang4 ban1" },
+        "meanings": ["to go to work", "to be on duty"],
+        "meanings_th": ["ไปทำงาน"]
+      }
+    ]
+  },
+  {
+    "simplified": "上课",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "上課",
+        "transcriptions": { "pinyin": "shàng kè", "numeric": "shang4 ke4" },
+        "meanings": ["to go to class", "to attend class"],
+        "meanings_th": ["เข้าเรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "上午",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "上午",
+        "transcriptions": { "pinyin": "shàng wǔ", "numeric": "shang4 wu3" },
+        "meanings": ["morning", "A.M."],
+        "meanings_th": ["ช่วงเช้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "上学",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "上學",
+        "transcriptions": { "pinyin": "shàng xué", "numeric": "shang4 xue2" },
+        "meanings": ["to go to school", "to attend school"],
+        "meanings_th": ["ไปโรงเรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "少",
+    "radical": "小",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "少",
+        "transcriptions": { "pinyin": "shǎo", "numeric": "shao3" },
+        "meanings": ["few", "less", "to lack"],
+        "meanings_th": ["น้อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "什么",
+    "radical": "亻",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "什麼",
+        "transcriptions": { "pinyin": "shén me", "numeric": "shen2 me5" },
+        "meanings": ["what?", "something"],
+        "meanings_th": ["อะไร"]
+      }
+    ]
+  },
+  {
+    "simplified": "生病",
+    "radical": "生",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "生病",
+        "transcriptions": { "pinyin": "shēng bìng", "numeric": "sheng1 bing4" },
+        "meanings": ["to fall ill"],
+        "meanings_th": ["ป่วย"]
+      }
+    ]
+  },
+  {
+    "simplified": "十",
+    "radical": "十",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "十",
+        "transcriptions": { "pinyin": "shí", "numeric": "shi2" },
+        "meanings": ["ten", "10"],
+        "meanings_th": ["สิบ"]
+      }
+    ]
+  },
+  {
+    "simplified": "时候",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "時候",
+        "transcriptions": { "pinyin": "shí hou", "numeric": "shi2 hou5" },
+        "meanings": ["time", "moment", "period"],
+        "meanings_th": ["เวลา", "ตอนที่"]
+      }
+    ]
+  },
+  {
+    "simplified": "时间",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "時間",
+        "transcriptions": { "pinyin": "shí jiān", "numeric": "shi2 jian1" },
+        "meanings": ["time", "period"],
+        "meanings_th": ["เวลา"]
+      }
+    ]
+  },
+  {
+    "simplified": "事",
+    "radical": "亅",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "事",
+        "transcriptions": { "pinyin": "shì", "numeric": "shi4" },
+        "meanings": ["matter", "thing", "item", "affair"],
+        "meanings_th": ["เรื่อง", "ธุระ", "งาน"]
+      }
+    ]
+  },
+  {
+    "simplified": "是",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "是",
+        "transcriptions": { "pinyin": "shì", "numeric": "shi4" },
+        "meanings": ["to be (is/am/are)", "correct", "yes"],
+        "meanings_th": ["เป็น", "คือ", "ใช่"]
+      }
+    ]
+  },
+  {
+    "simplified": "手机",
+    "radical": "手",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "手機",
+        "transcriptions": { "pinyin": "shǒu jī", "numeric": "shou3 ji1" },
+        "meanings": ["cell phone", "mobile phone"],
+        "meanings_th": ["โทรศัพท์มือถือ"]
+      }
+    ]
+  },
+  {
+    "simplified": "书",
+    "radical": "丨",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "書",
+        "transcriptions": { "pinyin": "shū", "numeric": "shu1" },
+        "meanings": ["book", "letter", "document"],
+        "meanings_th": ["หนังสือ"]
+      }
+    ]
+  },
+  {
+    "simplified": "书店",
+    "radical": "丨",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "書店",
+        "transcriptions": { "pinyin": "shū diàn", "numeric": "shu1 dian4" },
+        "meanings": ["bookstore"],
+        "meanings_th": ["ร้านหนังสือ"]
+      }
+    ]
+  },
+  {
+    "simplified": "谁",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "誰",
+        "transcriptions": { "pinyin": "shéi", "numeric": "shei2" },
+        "meanings": ["who?"],
+        "meanings_th": ["ใคร"]
+      }
+    ]
+  },
+  {
+    "simplified": "水",
+    "radical": "水",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "水",
+        "transcriptions": { "pinyin": "shuǐ", "numeric": "shui3" },
+        "meanings": ["water"],
+        "meanings_th": ["น้ำ"]
+      }
+    ]
+  },
+  {
+    "simplified": "水果",
+    "radical": "水",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "水果",
+        "transcriptions": { "pinyin": "shuǐ guǒ", "numeric": "shui3 guo3" },
+        "meanings": ["fruit"],
+        "meanings_th": ["ผลไม้"]
+      }
+    ]
+  },
+  {
+    "simplified": "睡",
+    "radical": "目",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "睡",
+        "transcriptions": { "pinyin": "shuì", "numeric": "shui4" },
+        "meanings": ["to sleep", "to lie down"],
+        "meanings_th": ["นอน"]
+      }
+    ]
+  },
+  {
+    "simplified": "睡觉",
+    "radical": "目",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "睡覺",
+        "transcriptions": { "pinyin": "shuì jiào", "numeric": "shui4 jiao4" },
+        "meanings": ["to go to bed", "to sleep"],
+        "meanings_th": ["นอนหลับ"]
+      }
+    ]
+  },
+  {
+    "simplified": "说",
+    "radical": "讠",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "說",
+        "transcriptions": { "pinyin": "shuō", "numeric": "shuo1" },
+        "meanings": ["to speak", "to talk", "to say"],
+        "meanings_th": ["พูด"]
+      }
+    ]
+  },
+  {
+    "simplified": "说话",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "說話",
+        "transcriptions": { "pinyin": "shuō huà", "numeric": "shuo1 hua4" },
+        "meanings": ["to speak", "to say", "to talk"],
+        "meanings_th": ["พูดคุย", "พูด"]
+      }
+    ]
+  },
+  {
+    "simplified": "四",
+    "radical": "囗",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "四",
+        "transcriptions": { "pinyin": "sì", "numeric": "si4" },
+        "meanings": ["four", "4"],
+        "meanings_th": ["สี่"]
+      }
+    ]
+  },
+  {
+    "simplified": "岁",
+    "radical": "山",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "歲",
+        "transcriptions": { "pinyin": "suì", "numeric": "sui4" },
+        "meanings": ["year (of age)", "years old"],
+        "meanings_th": ["ขวบ", "ปี"]
+      }
+    ]
+  },
+  {
+    "simplified": "他",
+    "radical": "亻",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "他",
+        "transcriptions": { "pinyin": "tā", "numeric": "ta1" },
+        "meanings": ["he", "him"],
+        "meanings_th": ["เขา (ผู้ชาย)"]
+      }
+    ]
+  },
+  {
+    "simplified": "他们",
+    "radical": "亻",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "他們",
+        "transcriptions": { "pinyin": "tā men", "numeric": "ta1 men5" },
+        "meanings": ["they", "them"],
+        "meanings_th": ["พวกเขา"]
+      }
+    ]
+  },
+  {
+    "simplified": "它",
+    "radical": "宀",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "它",
+        "transcriptions": { "pinyin": "tā", "numeric": "ta1" },
+        "meanings": ["it"],
+        "meanings_th": ["มัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "它们",
+    "radical": "宀",
+    "level": ["newest-1", "new-2"],
+    "forms": [
+      {
+        "traditional": "它們",
+        "transcriptions": { "pinyin": "tā men", "numeric": "ta1 men5" },
+        "meanings": ["they (for inanimate objects)"],
+        "meanings_th": ["พวกมัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "她",
+    "radical": "女",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "她",
+        "transcriptions": { "pinyin": "tā", "numeric": "ta1" },
+        "meanings": ["she", "her"],
+        "meanings_th": ["เขา (ผู้หญิง)", "เธอ"]
+      }
+    ]
+  },
+  {
+    "simplified": "她们",
+    "radical": "女",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "她們",
+        "transcriptions": { "pinyin": "tā men", "numeric": "ta1 men5" },
+        "meanings": ["they (for females)"],
+        "meanings_th": ["พวกเธอ"]
+      }
+    ]
+  },
+  {
+    "simplified": "太",
+    "radical": "大",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "太",
+        "transcriptions": { "pinyin": "tài", "numeric": "tai4" },
+        "meanings": ["too", "extremely"],
+        "meanings_th": ["เกินไป"]
+      }
+    ]
+  },
+  {
+    "simplified": "天",
+    "radical": "大",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "天",
+        "transcriptions": { "pinyin": "tiān", "numeric": "tian1" },
+        "meanings": ["day", "sky"],
+        "meanings_th": ["วัน", "ท้องฟ้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "天气",
+    "radical": "大",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "天氣",
+        "transcriptions": { "pinyin": "tiān qì", "numeric": "tian1 qi4" },
+        "meanings": ["weather"],
+        "meanings_th": ["อากาศ", "สภาพอากาศ"]
+      }
+    ]
+  },
+  {
+    "simplified": "听",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "聽",
+        "transcriptions": { "pinyin": "tīng", "numeric": "ting1" },
+        "meanings": ["to listen", "to hear"],
+        "meanings_th": ["ฟัง"]
+      }
+    ]
+  },
+  {
+    "simplified": "听见",
+    "radical": "口",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "聽見",
+        "transcriptions": { "pinyin": "tīng jiàn", "numeric": "ting1 jian4" },
+        "meanings": ["to hear"],
+        "meanings_th": ["ได้ยิน"]
+      }
+    ]
+  },
+  {
+    "simplified": "同学",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "同學",
+        "transcriptions": { "pinyin": "tóng xué", "numeric": "tong2 xue2" },
+        "meanings": ["classmate", "fellow student"],
+        "meanings_th": ["เพื่อนนักเรียน", "เพื่อนร่วมชั้น"]
+      }
+    ]
+  },
+  {
+    "simplified": "外",
+    "radical": "夕",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "外",
+        "transcriptions": { "pinyin": "wài", "numeric": "wai4" },
+        "meanings": ["outside", "foreign", "external"],
+        "meanings_th": ["นอก", "ภายนอก"]
+      }
+    ]
+  },
+  {
+    "simplified": "外边",
+    "radical": "夕",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "外邊",
+        "transcriptions": { "pinyin": "wài bian", "numeric": "wai4 bian5" },
+        "meanings": ["outside", "outer surface"],
+        "meanings_th": ["ด้านนอก", "ข้างนอก"]
+      }
+    ]
+  },
+  {
+    "simplified": "玩",
+    "radical": "王",
+    "level": ["newest-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "玩",
+        "transcriptions": { "pinyin": "wán", "numeric": "wan2" },
+        "meanings": ["to play", "to have fun"],
+        "meanings_th": ["เล่น"]
+      }
+    ]
+  },
+  {
+    "simplified": "晚",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "晚",
+        "transcriptions": { "pinyin": "wǎn", "numeric": "wan3" },
+        "meanings": ["evening", "night", "late"],
+        "meanings_th": ["สาย", "เย็น", "ค่ำ"]
+      }
+    ]
+  },
+  {
+    "simplified": "晚饭",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "晚飯",
+        "transcriptions": { "pinyin": "wǎn fàn", "numeric": "wan3 fan4" },
+        "meanings": ["evening meal", "dinner"],
+        "meanings_th": ["อาหารเย็น"]
+      }
+    ]
+  },
+  {
+    "simplified": "晚上",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "晚上",
+        "transcriptions": { "pinyin": "wǎn shang", "numeric": "wan3 shang5" },
+        "meanings": ["evening", "night"],
+        "meanings_th": ["ตอนเย็น", "ตอนค่ำ", "กลางคืน"]
+      }
+    ]
+  },
+  {
+    "simplified": "喂",
+    "radical": "口",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "喂",
+        "transcriptions": { "pinyin": "wéi", "numeric": "wei2" },
+        "meanings": ["hello (when answering the phone)"],
+        "meanings_th": ["ฮัลโหล", "สวัสดี"]
+      }
+    ]
+  },
+  {
+    "simplified": "问",
+    "radical": "门",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "問",
+        "transcriptions": { "pinyin": "wèn", "numeric": "wen4" },
+        "meanings": ["to ask", "to inquire"],
+        "meanings_th": ["ถาม"]
+      }
+    ]
+  },
+  {
+    "simplified": "问题",
+    "radical": "门",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "問題",
+        "transcriptions": { "pinyin": "wèn tí", "numeric": "wen4 ti2" },
+        "meanings": ["question", "problem", "issue"],
+        "meanings_th": ["คำถาม", "ปัญหา"]
+      }
+    ]
+  },
+  {
+    "simplified": "我",
+    "radical": "戈",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "我",
+        "transcriptions": { "pinyin": "wǒ", "numeric": "wo3" },
+        "meanings": ["I", "me", "my"],
+        "meanings_th": ["ฉัน", "ผม"]
+      }
+    ]
+  },
+  {
+    "simplified": "我们",
+    "radical": "戈",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "我們",
+        "transcriptions": { "pinyin": "wǒ men", "numeric": "wo3 men5" },
+        "meanings": ["we", "us", "our"],
+        "meanings_th": ["พวกเรา"]
+      }
+    ]
+  },
+  {
+    "simplified": "五",
+    "radical": "二",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "五",
+        "transcriptions": { "pinyin": "wǔ", "numeric": "wu3" },
+        "meanings": ["five", "5"],
+        "meanings_th": ["ห้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "午饭",
+    "radical": "十",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "午飯",
+        "transcriptions": { "pinyin": "wǔ fàn", "numeric": "wu3 fan4" },
+        "meanings": ["lunch"],
+        "meanings_th": ["อาหารกลางวัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "喜欢",
+    "radical": "口",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "喜歡",
+        "transcriptions": { "pinyin": "xǐ huan", "numeric": "xi3 huan5" },
+        "meanings": ["to like", "to be fond of"],
+        "meanings_th": ["ชอบ"]
+      }
+    ]
+  },
+  {
+    "simplified": "下",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "下",
+        "transcriptions": { "pinyin": "xià", "numeric": "xia4" },
+        "meanings": ["down", "below", "later", "next (week)", "to go down"],
+        "meanings_th": ["ล่าง", "ลง"]
+      }
+    ]
+  },
+  {
+    "simplified": "下班",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "下班",
+        "transcriptions": { "pinyin": "xià bān", "numeric": "xia4 ban1" },
+        "meanings": ["to finish work", "to get off duty"],
+        "meanings_th": ["เลิกงาน"]
+      }
+    ]
+  },
+  {
+    "simplified": "下课",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "下課",
+        "transcriptions": { "pinyin": "xià kè", "numeric": "xia4 ke4" },
+        "meanings": ["to finish class", "to get out of class"],
+        "meanings_th": ["เลิกเรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "下午",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "下午",
+        "transcriptions": { "pinyin": "xià wǔ", "numeric": "xia4 wu3" },
+        "meanings": ["afternoon", "P.M."],
+        "meanings_th": ["ตอนบ่าย"]
+      }
+    ]
+  },
+  {
+    "simplified": "下雨",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "下雨",
+        "transcriptions": { "pinyin": "xià yǔ", "numeric": "xia4 yu3" },
+        "meanings": ["to rain"],
+        "meanings_th": ["ฝนตก"]
+      }
+    ]
+  },
+  {
+    "simplified": "先生",
+    "radical": "儿",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "先生",
+        "transcriptions": { "pinyin": "xiān sheng", "numeric": "xian1 sheng5" },
+        "meanings": ["gentleman", "sir", "Mr.", "husband"],
+        "meanings_th": ["คุณ (ผู้ชาย)", "สุภาพบุรุษ"]
+      }
+    ]
+  },
+  {
+    "simplified": "现在",
+    "radical": "王",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "現在",
+        "transcriptions": { "pinyin": "xiàn zài", "numeric": "xian4 zai4" },
+        "meanings": ["now", "at present"],
+        "meanings_th": ["ตอนนี้", "ปัจจุบัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "想",
+    "radical": "心",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "想",
+        "transcriptions": { "pinyin": "xiǎng", "numeric": "xiang3" },
+        "meanings": ["to think", "to want", "to miss"],
+        "meanings_th": ["คิด", "อยาก", "คิดถึง"]
+      }
+    ]
+  },
+  {
+    "simplified": "小",
+    "radical": "小",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "小",
+        "transcriptions": { "pinyin": "xiǎo", "numeric": "xiao3" },
+        "meanings": ["small", "tiny", "young"],
+        "meanings_th": ["เล็ก"]
+      }
+    ]
+  },
+  {
+    "simplified": "小朋友",
+    "radical": "小",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "小朋友",
+        "transcriptions": { "pinyin": "xiǎo péng yǒu", "numeric": "xiao3 peng2 you3" },
+        "meanings": ["child", "little friend"],
+        "meanings_th": ["เด็กๆ"]
+      }
+    ]
+  },
+  {
+    "simplified": "小时",
+    "radical": "小",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "小時",
+        "transcriptions": { "pinyin": "xiǎo shí", "numeric": "xiao3 shi2" },
+        "meanings": ["hour"],
+        "meanings_th": ["ชั่วโมง"]
+      }
+    ]
+  },
+  {
+    "simplified": "小学",
+    "radical": "小",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "小學",
+        "transcriptions": { "pinyin": "xiǎo xué", "numeric": "xiao3 xue2" },
+        "meanings": ["elementary school", "primary school"],
+        "meanings_th": ["โรงเรียนประถม"]
+      }
+    ]
+  },
+  {
+    "simplified": "小学生",
+    "radical": "小",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "小學生",
+        "transcriptions": { "pinyin": "xiǎo xué shēng", "numeric": "xiao3 xue2 sheng1" },
+        "meanings": ["primary school student"],
+        "meanings_th": ["นักเรียนประถม"]
+      }
+    ]
+  },
+  {
+    "simplified": "些",
+    "radical": "二",
+    "level": ["newest-1", "new-4", "old-1"],
+    "forms": [
+      {
+        "traditional": "些",
+        "transcriptions": { "pinyin": "xiē", "numeric": "xie1" },
+        "meanings": ["some", "a few", "several"],
+        "meanings_th": ["บ้าง", "นิดหน่อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "写",
+    "radical": "冖",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "寫",
+        "transcriptions": { "pinyin": "xiě", "numeric": "xie3" },
+        "meanings": ["to write"],
+        "meanings_th": ["เขียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "谢谢",
+    "radical": "讠",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "謝謝",
+        "transcriptions": { "pinyin": "xiè xie", "numeric": "xie4 xie5" },
+        "meanings": ["to thank", "thank you"],
+        "meanings_th": ["ขอบคุณ"]
+      }
+    ]
+  },
+  {
+    "simplified": "新",
+    "radical": "斤",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "新",
+        "transcriptions": { "pinyin": "xin", "numeric": "xin1" },
+        "meanings": ["new", "newly"],
+        "meanings_th": ["ใหม่"]
+      }
+    ]
+  },
+  {
+    "simplified": "星期",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "星期",
+        "transcriptions": { "pinyin": "xīng qī", "numeric": "xing1 qi1" },
+        "meanings": ["week", "day of the week"],
+        "meanings_th": ["สัปดาห์"]
+      }
+    ]
+  },
+  {
+    "simplified": "星期日",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "星期日",
+        "transcriptions": { "pinyin": "Xīng qī rì", "numeric": "Xing1 qi1 ri4" },
+        "meanings": ["Sunday"],
+        "meanings_th": ["วันอาทิตย์"]
+      }
+    ]
+  },
+  {
+    "simplified": "星期天",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "星期天",
+        "transcriptions": { "pinyin": "Xīng qī tiān", "numeric": "Xing1 qi1 tian1" },
+        "meanings": ["Sunday"],
+        "meanings_th": ["วันอาทิตย์"]
+      }
+    ]
+  },
+  {
+    "simplified": "休息",
+    "radical": "亻",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "休息",
+        "transcriptions": { "pinyin": "xiū xi", "numeric": "xiu1 xi5" },
+        "meanings": ["to rest"],
+        "meanings_th": ["พักผ่อน"]
+      }
+    ]
+  },
+  {
+    "simplified": "学",
+    "radical": "子",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "學",
+        "transcriptions": { "pinyin": "xué", "numeric": "xue2" },
+        "meanings": ["to learn", "to study"],
+        "meanings_th": ["เรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "学生",
+    "radical": "子",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "學生",
+        "transcriptions": { "pinyin": "xué sheng", "numeric": "xue2 sheng5" },
+        "meanings": ["student"],
+        "meanings_th": ["นักเรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "学习",
+    "radical": "子",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "學習",
+        "transcriptions": { "pinyin": "xué xí", "numeric": "xue2 xi2" },
+        "meanings": ["to learn", "to study"],
+        "meanings_th": ["เรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "学校",
+    "radical": "子",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "學校",
+        "transcriptions": { "pinyin": "xué xiào", "numeric": "xue2 xiao4" },
+        "meanings": ["school"],
+        "meanings_th": ["โรงเรียน"]
+      }
+    ]
+  },
+  {
+    "simplified": "雪",
+    "radical": "雨",
+    "level": ["newest-1", "new-2", "old-2"],
+    "forms": [
+      {
+        "traditional": "雪",
+        "transcriptions": { "pinyin": "xuě", "numeric": "xue3" },
+        "meanings": ["snow"],
+        "meanings_th": ["หิมะ"]
+      }
+    ]
+  },
+  {
+    "simplified": "要",
+    "radical": "覀",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "要",
+        "transcriptions": { "pinyin": "yào", "numeric": "yao4" },
+        "meanings": ["to want", "to need", "will"],
+        "meanings_th": ["เอา", "ต้องการ", "จะ"]
+      }
+    ]
+  },
+  {
+    "simplified": "也",
+    "radical": "乚",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "也",
+        "transcriptions": { "pinyin": "yě", "numeric": "ye3" },
+        "meanings": ["also", "too"],
+        "meanings_th": ["ก็...เหมือนกัน"]
+      }
+    ]
+  },
+  {
+    "simplified": "一",
+    "radical": "一",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "一",
+        "transcriptions": { "pinyin": "yī", "numeric": "yi1" },
+        "meanings": ["one", "1"],
+        "meanings_th": ["หนึ่ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "一半",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "一半",
+        "transcriptions": { "pinyin": "yī bàn", "numeric": "yi1 ban4" },
+        "meanings": ["half"],
+        "meanings_th": ["ครึ่งหนึ่ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "一点儿",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "一點兒",
+        "transcriptions": { "pinyin": "yī diǎn r", "numeric": "yi1 dian3 r5" },
+        "meanings": ["a bit", "a little bit"],
+        "meanings_th": ["นิดหน่อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "一些",
+    "radical": "一",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "一些",
+        "transcriptions": { "pinyin": "yī xiē", "numeric": "yi1 xie1" },
+        "meanings": ["some", "a few"],
+        "meanings_th": ["บางส่วน"]
+      }
+    ]
+  },
+  {
+    "simplified": "衣服",
+    "radical": "衣",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "衣服",
+        "transcriptions": { "pinyin": "yī fu", "numeric": "yi1 fu5" },
+        "meanings": ["clothes"],
+        "meanings_th": ["เสื้อผ้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "医生",
+    "radical": "匸",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "醫生",
+        "transcriptions": { "pinyin": "yī shēng", "numeric": "yi1 sheng1" },
+        "meanings": ["doctor"],
+        "meanings_th": ["หมอ"]
+      }
+    ]
+  },
+  {
+    "simplified": "医院",
+    "radical": "匸",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "醫院",
+        "transcriptions": { "pinyin": "yī yuàn", "numeric": "yi1 yuan4" },
+        "meanings": ["hospital"],
+        "meanings_th": ["โรงพยาบาล"]
+      }
+    ]
+  },
+  {
+    "simplified": "椅子",
+    "radical": "木",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "椅子",
+        "transcriptions": { "pinyin": "yǐ zi", "numeric": "yi3 zi5" },
+        "meanings": ["chair"],
+        "meanings_th": ["เก้าอี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "有",
+    "radical": "月",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "有",
+        "transcriptions": { "pinyin": "yǒu", "numeric": "you3" },
+        "meanings": ["to have", "there is"],
+        "meanings_th": ["มี"]
+      }
+    ]
+  },
+  {
+    "simplified": "有的",
+    "radical": "月",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "有的",
+        "transcriptions": { "pinyin": "yǒu de", "numeric": "you3 de5" },
+        "meanings": ["some", "certain"],
+        "meanings_th": ["บางส่วน", "บ้าง"]
+      }
+    ]
+  },
+  {
+    "simplified": "有点儿",
+    "radical": "月",
+    "level": ["newest-1", "new-2"],
+    "forms": [
+      {
+        "traditional": "有點兒",
+        "transcriptions": { "pinyin": "yǒu diǎn r", "numeric": "you3 dian3 r5" },
+        "meanings": ["slightly", "a little"],
+        "meanings_th": ["นิดหน่อย"]
+      }
+    ]
+  },
+  {
+    "simplified": "有些",
+    "radical": "月",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "有些",
+        "transcriptions": { "pinyin": "yǒu xiē", "numeric": "you3 xie1" },
+        "meanings": ["some", "somewhat"],
+        "meanings_th": ["บางส่วน", "บ้าง"]
+      }
+    ]
+  },
+  {
+    "simplified": "雨",
+    "radical": "雨",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "雨",
+        "transcriptions": { "pinyin": "yu", "numeric": "yu3" },
+        "meanings": ["rain"],
+        "meanings_th": ["ฝน"]
+      }
+    ]
+  },
+  {
+    "simplified": "元",
+    "radical": "儿",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "元",
+        "transcriptions": { "pinyin": "yuán", "numeric": "yuan2" },
+        "meanings": ["currency unit (Yuan)", "first"],
+        "meanings_th": ["หยวน"]
+      }
+    ]
+  },
+  {
+    "simplified": "月",
+    "radical": "月",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "月",
+        "transcriptions": { "pinyin": "yuè", "numeric": "yue4" },
+        "meanings": ["month", "moon"],
+        "meanings_th": ["เดือน"]
+      }
+    ]
+  },
+  {
+    "simplified": "再",
+    "radical": "冂",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "再",
+        "transcriptions": { "pinyin": "zài", "numeric": "zai4" },
+        "meanings": ["again", "once more"],
+        "meanings_th": ["อีกครั้ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "再见",
+    "radical": "冂",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "再見",
+        "transcriptions": { "pinyin": "zài jiàn", "numeric": "zai4 jian4" },
+        "meanings": ["goodbye", "see you again"],
+        "meanings_th": ["ลาก่อน"]
+      }
+    ]
+  },
+  {
+    "simplified": "在",
+    "radical": "土",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "在",
+        "transcriptions": { "pinyin": "zài", "numeric": "zai4" },
+        "meanings": ["at", "in", "to exist", "(indicator for continuous action)"],
+        "meanings_th": ["อยู่ที่", "กำลัง...อยู่"]
+      }
+    ]
+  },
+  {
+    "simplified": "早",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "早",
+        "transcriptions": { "pinyin": "zǎo", "numeric": "zao3" },
+        "meanings": ["early", "morning"],
+        "meanings_th": ["เช้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "早饭",
+    "radical": "日",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "早飯",
+        "transcriptions": { "pinyin": "zǎo fàn", "numeric": "zao3 fan4" },
+        "meanings": ["breakfast"],
+        "meanings_th": ["อาหารเช้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "早上",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "早上",
+        "transcriptions": { "pinyin": "zǎo shang", "numeric": "zao3 shang5" },
+        "meanings": ["(early) morning"],
+        "meanings_th": ["ตอนเช้า"]
+      }
+    ]
+  },
+  {
+    "simplified": "怎么",
+    "radical": "心",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "怎麼",
+        "transcriptions": { "pinyin": "zěn me", "numeric": "zen3 me5" },
+        "meanings": ["how?", "why?"],
+        "meanings_th": ["อย่างไร"]
+      }
+    ]
+  },
+  {
+    "simplified": "怎么样",
+    "radical": "心",
+    "level": ["newest-1", "new-2", "old-1"],
+    "forms": [
+      {
+        "traditional": "怎麼樣",
+        "transcriptions": { "pinyin": "zěn me yàng", "numeric": "zen3 me5 yang4" },
+        "meanings": ["how about...?", "how was it?"],
+        "meanings_th": ["เป็นอย่างไรบ้าง"]
+      }
+    ]
+  },
+  {
+    "simplified": "找",
+    "radical": "扌",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "找",
+        "transcriptions": { "pinyin": "zhǎo", "numeric": "zhao3" },
+        "meanings": ["to find", "to look for", "to give change"],
+        "meanings_th": ["หา"]
+      }
+    ]
+  },
+  {
+    "simplified": "这",
+    "radical": "辶",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "這",
+        "transcriptions": { "pinyin": "zhè", "numeric": "zhe4" },
+        "meanings": ["this", "these"],
+        "meanings_th": ["นี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "这边",
+    "radical": "辶",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "這邊",
+        "transcriptions": { "pinyin": "zhè biān", "numeric": "zhe4 bian1" },
+        "meanings": ["this side", "here"],
+        "meanings_th": ["ทางนี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "这儿",
+    "radical": "辶",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "這兒",
+        "transcriptions": { "pinyin": "zhè r", "numeric": "zhe4 r5" },
+        "meanings": ["here"],
+        "meanings_th": ["ที่นี่"]
+      }
+    ]
+  },
+  {
+    "simplified": "这里",
+    "radical": "辶",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "這裡",
+        "transcriptions": { "pinyin": "zhè lǐ", "numeric": "zhe4 li3" },
+        "meanings": ["here"],
+        "meanings_th": ["ที่นี่"]
+      }
+    ]
+  },
+  {
+    "simplified": "这些",
+    "radical": "辶",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "這些",
+        "transcriptions": { "pinyin": "zhè xiē", "numeric": "zhe4 xie1" },
+        "meanings": ["these"],
+        "meanings_th": ["เหล่านี้"]
+      }
+    ]
+  },
+  {
+    "simplified": "真",
+    "radical": "目",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "真",
+        "transcriptions": { "pinyin": "zhēn", "numeric": "zhen1" },
+        "meanings": ["really", "truly", "real"],
+        "meanings_th": ["จริง"]
+      }
+    ]
+  },
+  {
+    "simplified": "正在",
+    "radical": "止",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "正在",
+        "transcriptions": { "pinyin": "zhèng zài", "numeric": "zheng4 zai4" },
+        "meanings": ["in the process of", "right now"],
+        "meanings_th": ["กำลัง...อยู่"]
+      }
+    ]
+  },
+  {
+    "simplified": "知道",
+    "radical": "矢",
+    "level": ["newest-1", "new-1", "old-2"],
+    "forms": [
+      {
+        "traditional": "知道",
+        "transcriptions": { "pinyin": "zhī dào", "numeric": "zhi1 dao4" },
+        "meanings": ["to know"],
+        "meanings_th": ["รู้"]
+      }
+    ]
+  },
+  {
+    "simplified": "只",
+    "radical": "口",
+    "level": ["newest-1", "new-2", "old-3"],
+    "forms": [
+      {
+        "traditional": "只",
+        "transcriptions": { "pinyin": "zhǐ", "numeric": "zhi3" },
+        "meanings": ["only", "just"],
+        "meanings_th": ["แค่", "เพียงแต่"]
+      }
+    ]
+  },
+  {
+    "simplified": "中国",
+    "radical": "丨",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "中國",
+        "transcriptions": { "pinyin": "Zhōng guó", "numeric": "Zhong1 guo2" },
+        "meanings": ["China"],
+        "meanings_th": ["ประเทศจีน"]
+      }
+    ]
+  },
+  {
+    "simplified": "中文",
+    "radical": "丨",
+    "level": ["newest-1", "new-1", "old-4"],
+    "forms": [
+      {
+        "traditional": "中文",
+        "transcriptions": { "pinyin": "Zhōng wén", "numeric": "Zhong1 wen2" },
+        "meanings": ["Chinese language"],
+        "meanings_th": ["ภาษาจีน"]
+      }
+    ]
+  },
+  {
+    "simplified": "中午",
+    "radical": "丨",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "中午",
+        "transcriptions": { "pinyin": "zhōng wǔ", "numeric": "zhong1 wu3" },
+        "meanings": ["noon", "midday"],
+        "meanings_th": ["ตอนเที่ยง"]
+      }
+    ]
+  },
+  {
+    "simplified": "中学",
+    "radical": "丨",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "中學",
+        "transcriptions": { "pinyin": "zhōng xué", "numeric": "zhong1 xue2" },
+        "meanings": ["middle school"],
+        "meanings_th": ["โรงเรียนมัธยม"]
+      }
+    ]
+  },
+  {
+    "simplified": "中学生",
+    "radical": "丨",
+    "level": ["newest-1", "new-1"],
+    "forms": [
+      {
+        "traditional": "中學生",
+        "transcriptions": { "pinyin": "zhōng xué shēng", "numeric": "zhong1 xue2 sheng1" },
+        "meanings": ["middle-school student"],
+        "meanings_th": ["นักเรียนมัธยม"]
+      }
+    ]
+  },
+  {
+    "simplified": "住",
+    "radical": "亻",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "住",
+        "transcriptions": { "pinyin": "zhù", "numeric": "zhu4" },
+        "meanings": ["to live", "to stay"],
+        "meanings_th": ["อยู่", "อาศัยอยู่"]
+      }
+    ]
+  },
+  {
+    "simplified": "桌子",
+    "radical": "木",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "桌子",
+        "transcriptions": { "pinyin": "zhuō zi", "numeric": "zhuo1 zi5" },
+        "meanings": ["table", "desk"],
+        "meanings_th": ["โต๊ะ"]
+      }
+    ]
+  },
+  {
+    "simplified": "字",
+    "radical": "子",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "字",
+        "transcriptions": { "pinyin": "zì", "numeric": "zi4" },
+        "meanings": ["character", "word", "letter"],
+        "meanings_th": ["ตัวอักษร"]
+      }
+    ]
+  },
+  {
+    "simplified": "昨天",
+    "radical": "日",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "昨天",
+        "transcriptions": { "pinyin": "zuó tiān", "numeric": "zuo2 tian1" },
+        "meanings": ["yesterday"],
+        "meanings_th": ["เมื่อวาน"]
+      }
+    ]
+  },
+  {
+    "simplified": "坐",
+    "radical": "土",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "坐",
+        "transcriptions": { "pinyin": "zuò", "numeric": "zuo4" },
+        "meanings": ["to sit", "to take (bus/plane etc.)"],
+        "meanings_th": ["นั่ง"]
+      }
+    ]
+  },
+  {
+    "simplified": "做",
+    "radical": "亻",
+    "level": ["newest-1", "new-1", "old-1"],
+    "forms": [
+      {
+        "traditional": "做",
+        "transcriptions": { "pinyin": "zuò", "numeric": "zuo4" },
+        "meanings": ["to do", "to make"],
+        "meanings_th": ["ทำ"]
+      }
+    ]
+  },
+  {
+    "simplified": "做饭",
+    "radical": "亻",
+    "level": ["newest-1", "new-2"],
+    "forms": [
+      {
+        "traditional": "做飯",
+        "transcriptions": { "pinyin": "zuò fàn", "numeric": "zuo4 fan4" },
+        "meanings": ["to prepare a meal", "to cook"],
+        "meanings_th": ["ทำอาหาร"]
+      }
+    ]
+  }
+]
